@@ -1,0 +1,11 @@
+{
+  "ciudad" : "Los Ángeles",
+  "dias" : [
+    {"fecha": "2018-06-03", "salida": "06:20", "puesta": "17:50"},
+    {"fecha": "2018-06-04", "salida": "06:18", "puesta": "17:51"},
+    {"fecha": "2018-06-05", "salida": "06:17", "puesta": "17:52"},
+    {"fecha": "2018-06-06", "salida": "06:16", "puesta": "17:53"},
+    {"fecha": "2018-06-07", "salida": "06:14", "puesta": "17:54"},
+    {"fecha": "2018-06-08", "salida": "06:13", "puesta": "17:55"}
+  ]
+}

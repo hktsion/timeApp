@@ -1,0 +1,33 @@
+[
+  {
+    "ciudad" : "Madrid",
+    "id" : "0001",
+    "UTC" : 1,
+    "mostrar": true
+  },
+  {
+    "ciudad" : "Nueva York",
+    "id" : "0002",
+    "UTC" : -5
+  },
+  {
+    "ciudad" : "Los Ángeles",
+    "id" : "0003",
+    "UTC" : -8
+  },  
+  {
+    "ciudad" : "Tokio",
+    "id" : "0004",
+    "UTC" : 9    
+  },
+  {
+    "ciudad" : "Pekín",
+    "id" : "0005",
+    "UTC" : 8    
+  },
+  {
+    "ciudad" : "Moscú",
+    "id" : "0006",
+    "UTC" : 3    
+  }
+]
